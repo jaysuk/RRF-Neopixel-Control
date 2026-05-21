@@ -2,6 +2,8 @@
 
 A DuetWebControl (DWC) plugin for controlling Neopixel (WS2812) and DotStar LED strips on RepRapFirmware 3.x machines.
 
+![Neopixel Control plugin screenshot](screenshot.png)
+
 ## Features
 
 - Auto-detects all LED strips configured in firmware from the object model
